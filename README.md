@@ -1,4 +1,4 @@
-# Before all the React documentary and stuff. Do have a look at my website deployed
+# Before all the React documentation and stuff. Do have a look at my website deployed
 
 https://eash-image-search-engine.herokuapp.com/
 
